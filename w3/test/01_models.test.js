@@ -131,7 +131,6 @@ describe('Models', function() {
     //end of `The Students model` describe block
   });
   describe('The `Test` model', function() {
-
     let test;
     let subject = 'Tree-climbing';
     let grade = 79;
